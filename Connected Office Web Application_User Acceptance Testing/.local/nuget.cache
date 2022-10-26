@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7y8jp0SQJjoeLz7Km+Ugy7p/MSS9NRLkC+MNtRtLo+AuudsEciC0JP1bI5VFLhyDbYyOzUk7fX4d0KCuVn+MJw==",
+  "dgSpecHash": "LjzNKK5eYCLPRO+ZSgKj24/XmzYlIaR84NbfJaQOUhNhnSdiu1fSDdi8xOa+uLm8f5Mo2yLBsliGG36h5XqrDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\renda\\Music\\Connected Office Web Application_User Acceptance Testing\\.local\\",
+  "projectFilePath": "C:\\Users\\renda\\OneDrive - NORTH-WEST UNIVERSITY\\Documents\\github\\CMPG323-Project-04-30151007\\Connected Office Web Application_User Acceptance Testing\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\renda\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\renda\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",
