@@ -15,6 +15,34 @@ This project is going to work just like the project 3 but this time everything i
 
 ![image](https://user-images.githubusercontent.com/111001425/198292469-a69d5b24-e25c-4111-82cd-5dc81c620b92.png)
 
+## step 2.-- After the robot have automatically click the the log in button. this page will appear.
+
+![image](https://user-images.githubusercontent.com/111001425/198293430-6c4f26a8-0959-4f1d-814c-48feb1d1a9d0.png)
+
+## step 3.--The robot will will then automatically enter the email addess that I allocatted when doing the project , the email address is already registered into the database. after it have type in the password It will then enter the password that i created.
+
+After that The login will be entered automatically.
+
+![image](https://user-images.githubusercontent.com/111001425/198295134-9a120767-d595-4d8d-9fe3-c28075bb0f6c.png)
+
+## step 4.--When this page open, the robot will the automatically click zone.
+
+![image](https://user-images.githubusercontent.com/111001425/198295520-a2b41340-0c17-4fc4-b869-8fcb49a357eb.png)
+
+## step 5.--The robot will then start to read all the zone data from the excel provided., the zone name and the zone description.
+From here it is going to click the plus button on the zone.
+
+![image](https://user-images.githubusercontent.com/111001425/198296723-43b84fcb-01f1-4e5d-83db-84a433e5ac0d.png)
+
+## step 6.--After the plus button- the robot will read and type the zone name and zone description in the text after that it will click and the the zone name and the zone description will ne saved in to the database automatically
+
+![image](https://user-images.githubusercontent.com/111001425/198297298-d2e6ed40-2c22-4676-9687-7488bf804e64.png)
+
+
+
+
+
+
 
 
 
