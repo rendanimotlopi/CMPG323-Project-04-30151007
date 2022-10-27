@@ -1,5 +1,9 @@
 # CMPG323-Project-04-30151007
 inital commit
+
+## The proof that i published my project to uipath
+![image](https://user-images.githubusercontent.com/111001425/198300127-55afec61-29cb-4066-89bf-83b9146308e0.png)
+
 ## Introduction.
 
 As part of the Project 4.It is going to be about Robotic Process Automation (RPA),refers to the use of technology to mimic human tasks in the same way that a person would execute a process. This usually refers to, what we would call, ‘front-end’ or UI (User Interface) automation.
@@ -37,6 +41,14 @@ From here it is going to click the plus button on the zone.
 ## step 6.--After the plus button- the robot will read and type the zone name and zone description in the text after that it will click and the the zone name and the zone description will ne saved in to the database automatically
 
 ![image](https://user-images.githubusercontent.com/111001425/198297298-d2e6ed40-2c22-4676-9687-7488bf804e64.png)
+
+## step 6, After it have clicked submit ,it will show the page this the description or details of all we have entered.
+
+![image](https://user-images.githubusercontent.com/111001425/198298912-fb56a9c4-4dbb-4150-b251-c98bc64491d6.png)
+
+## After this it is going to click button edit and edit data automatically, edited data will have the "update" word at the end
+
+![image](https://user-images.githubusercontent.com/111001425/198299587-f3d6bb0a-d383-482f-8922-ff98c3c4ab75.png)
 
 
 
