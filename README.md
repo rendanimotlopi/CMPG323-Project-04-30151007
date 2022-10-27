@@ -53,6 +53,9 @@ From here it is going to click the plus button on the zone.
 
 ![image](https://user-images.githubusercontent.com/111001425/198299587-f3d6bb0a-d383-482f-8922-ff98c3c4ab75.png)
 
+## Then after editing, it will do dor the rest , then delete all of them
+
+
 
 
 
